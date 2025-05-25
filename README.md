@@ -1,6 +1,6 @@
 # DNA
 
-DNALab1.cp为Lab1的代码
+DNALab1.cpp为Lab1的代码
 
 PJ.cpp 为Lab2 Task1的代码  
 1.in 为Lab2 Task1的输入  
