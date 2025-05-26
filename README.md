@@ -8,3 +8,4 @@ PJ.cpp 为Lab2 Task1的代码
 PJ-2.cpp 为Lab2 Task2的代码  
 2.in 为Lab2 Task2的输入  
 2.out 为Lab2 Task2的输出（已提交，评分2078）  
+Lab2report.pdf是实验文档，包括有伪代码，复杂度分析等
